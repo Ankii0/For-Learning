@@ -1,2 +1,3 @@
 # For-Learning
-This repo is learning more about git and github
+This repo is for learning more about git and github
+
